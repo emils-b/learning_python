@@ -1,8 +1,4 @@
 class Deal:
-    buyer = ""
-    seller = ""
-    sum_with_curr = ""
-    con_nr = 0
 
     def __init__(self, buyer, seller, sum_with_curr, con_nr):
         self.buyer = buyer
